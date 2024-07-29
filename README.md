@@ -1,4 +1,4 @@
-#python_strength_checker
+#password_strength_checker
 
 
 Python program to check the validity of a Password
